@@ -1,0 +1,124 @@
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  margin: 0;
+  overflow-x: hidden;
+  font-size: 100%;
+}
+
+h1{
+  font-size: 7em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 500;
+  text-align: center;
+  line-height: 0.3em;
+}
+
+h2{
+  font-size: 2.5em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 500;
+  text-align: center;
+  line-height: 0.2em;
+}
+
+button {
+  position: absolute;
+  z-index: 5;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: orange;
+  border: none;
+  color: white;
+  padding: 20px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 2em;
+  border-radius: 10px;
+}
+
+p{
+    text-align: center;
+    font-size: 32px;
+}
+
+footer{
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  /*width: 100%;
+  margin: 0;
+  padding: 0;
+  height: 2.5em;*/
+}
+/*.typewriter h1 {
+    overflow: hidden; /* Ensures the content is not revealed until the animation 
+    border-right: .10em solid transparent; /* The typwriter cursor 
+    white-space: nowrap; /* Keeps the content on a single line 
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens 
+    letter-spacing: .05em; /* Adjust as needed 
+    animation: 
+      typing 1.5s steps(8, end),
+      blink-caret .75s step-end 9;
+
+  }
+  
+  /* The typing effect 
+  @keyframes typing {
+    from { width: 0% }
+    to { width: 60% }
+  }
+  
+  /* The typewriter cursor effect 
+  @keyframes blink-caret {
+    from, to { border-color: orange }
+    50% { border-color: transparent; }
+  }
+*/
+
+img{
+  position: absolute;
+  bottom: 0;
+  height: 40%;
+  animation: movimento 60s linear normal infinite;
+}
+
+img:nth-child(2) {
+  transform: translateX(-100%);
+  animation-delay: 30s;
+}
+
+@keyframes movimento{
+  from{ transform: translate(0,0); }
+  to{ transform: translate(-100%, 0); }
+}
+
+.start-background{
+  height: 100vh;
+  background-image: linear-gradient(red, orange);
+}
+.arrow-container{
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  width: 50px;
+  height: 25px;
+  animation: arrow-movement infinite 1.2s alternate linear;
+}
+
+.arrow{
+  width: 50px;
+  height: 25px;
+  background-color: white;
+  clip-path: polygon(0 0, 50% 100%, 100% 0, 90% 0, 50% 80%, 10% 0);
+}
+
+@keyframes arrow-movement{
+  from{ bottom: 5%; }
+  to{ bottom: 2%; }
+}
