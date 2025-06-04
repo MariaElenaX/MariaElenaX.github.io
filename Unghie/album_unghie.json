@@ -1,0 +1,262 @@
+[
+    {
+        "id": "album8",
+        "images": [
+            "8_1.jpg",
+            "8_2.jpg",
+            "8_3.jpg",
+            "8_4.jpg"
+        ],
+        "description": "Ricostruzione in gel"
+    },
+    {
+        "id": "album35",
+        "images": [
+            "35_1.jpg",
+            "35_2.jpg",
+            "35_3.jpg"
+        ],
+        "description": "Ricostruzione in gel"
+    },
+    {
+        "id": "album34",
+        "images": [
+            "34_1.jpg",
+            "34_2.jpg",
+            "34_3.jpg"
+        ],
+        "description": "Ricostruzione in acrygel"
+    },
+    {
+        "id": "album27",
+        "images": [
+            "27_1.jpg",
+            "27_2.jpg",
+            "27_3.jpg"
+        ],
+        "description": "Copertura in gel"
+    },
+    {
+        "id": "album28",
+        "images": [
+            "28_1.jpg",
+            "28_2.jpg",
+            "28_3.jpg"
+        ],
+        "description": "Ricostruzione in gel"
+    },
+    {
+        "id": "album29",
+        "images": [
+            "29_1.jpg",
+            "29_2.jpg",
+            "29_3.jpg"
+        ],
+        "description": "Ricostruzione in gel"
+    },
+    {
+        "id": "album31",
+        "images": [
+            "31_1.jpg",
+            "31_2.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album33",
+        "images": [
+            "33_1.jpg",
+            "33_2.jpg",
+            "33_3.jpg"
+        ],
+        "description": "Ricostruzione in acrygel"
+    },
+    {
+        "id": "album26",
+        "images": [
+            "26_1.jpg",
+            "26_2.jpg"
+        ],
+        "description": "Ricostruzione in acrygel"
+    },
+    {
+        "id": "album25",
+        "images": [
+            "25_1.jpg",
+            "25_2.jpg"
+        ],
+        "description": "Ricostruzione in acrygel con muretto in struttura"
+    },
+    {
+        "id": "album24",
+        "images": [
+            "24_1.jpg",
+            "24_2.jpg",
+            "24_3.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album23",
+        "images": [
+            "23_1.jpg",
+            "23_2.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album22",
+        "images": [
+            "22_1.jpg",
+            "22_2.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album21",
+        "images": [
+            "21_1.jpg",
+            "21_2.jpg",
+            "21_3.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album20",
+        "images": [
+            "20_1.jpg",
+            "20_2.jpg",
+            "20_3.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album19",
+        "images": [
+            "19_1.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album18",
+        "images": [
+            "18_1.jpg",
+            "18_2.jpg"
+        ],
+        "description": "Semipermanente rinforzato"
+    },
+    {
+        "id": "album17",
+        "images": [
+            "17_1.jpg",
+            "17_2.jpg",
+            "17_3.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album16",
+        "images": [
+            "16_1.jpg",
+            "16_2.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album15",
+        "images": [
+            "15_1.jpg",
+            "15_2.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album14",
+        "images": [
+            "14_1.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album13",
+        "images": [
+            "13_1.jpg",
+            "13_2.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album12",
+        "images": [
+            "12_1.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album11",
+        "images": [
+            "11_1.jpg",
+            "11_2.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album10",
+        "images": [
+            "10_1.jpg",
+            "10_2.jpg",
+            "10_3.jpg",
+            "10_4.jpg",
+            "10_5.jpg"
+        ],
+        "description": "Ricostruzione in gel (18°)"
+    },
+    {
+        "id": "album9",
+        "images": [
+            "9_1.jpg",
+            "9_2.jpg"
+        ],
+        "description": "Ricostruzione in acrygel"
+    },
+    {
+        "id": "album7",
+        "images": [
+            "7_1.jpg",
+            "7_2.jpg",
+            "7_3.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album6",
+        "images": [
+            "6_1.jpg",
+            "6_2.jpg",
+            "6_3.jpg",
+            "6_4.jpg",
+            "6_5.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album5",
+        "images": [
+            "5_1.jpg",
+            "5_2.jpg",
+            "5_3.jpg"
+        ],
+        "description": "Semipermanente"
+    },
+    {
+        "id": "album4",
+        "images": [
+            "4_1.jpg",
+            "4_2.jpg",
+            "4_3.jpg",
+            "4_4.jpg",
+            "4_5.jpg"
+        ],
+        "description": "Ricostruzione in gel"
+    }
+]

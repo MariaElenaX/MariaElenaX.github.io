@@ -1,0 +1,18 @@
+/* Maria Elena Toscano 25/04/2025 */
+body{
+    background: #FFC5D3;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+.unghie{
+    height: 13.5rem;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+h1{
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
