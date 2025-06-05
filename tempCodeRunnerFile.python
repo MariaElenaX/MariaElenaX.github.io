@@ -1,0 +1,36 @@
+import random
+print("ciao")
+
+n = int(input("Inserisci un numero: "))
+
+l=[]
+
+for i in range(n):
+    l.append(i)
+
+print(l)
+
+i=0
+while i < 10:
+    l[random.randint(0,n- 1)]=random.randint(0,n)
+    i+=1
+
+print(l)
+
+s = set(l)
+
+print(s)
+
+
+temperatura = 12
+giorno = "12/01/2024"
+
+print("Oggi è il " + giorno,  (" e ci sono {a} gradi").format(a=temperatura))
+
+
+if n >= 5:
+    print("valore dalla posizione 5 alla n: " + str(l[5:]))
+
+d = {"ciao":1, "buongiorno":2, "buonanotte":3}
+print(d.get("ciao"))
+print("buonasera" in d)
